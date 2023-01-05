@@ -1,0 +1,9 @@
+.answer--button {
+  height: 20px;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  color: #293264;
+  border: 1px solid #4D5B9E;
+  border-radius: 8px;
+  padding: 3px 8px;
+}
